@@ -1,3 +1,5 @@
-def square_array(array)
-  numbers.each# your code here
+def square_array(numbers)
+  numbers.each do |number.**|
+  end
+  return new_numbers# your code here
 end
